@@ -29,6 +29,10 @@
 				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/IMC_Default.uasset",
 				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/ThirdPersonBP/Blueprints/InteractInterface_BP.uasset",
 				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/PlaceObject.uasset",
+				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/UI/Crosshair.uasset",
+				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/PreviewActor_BP.uasset",
+				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/Materials/M_Valid_Mat.uasset",
+				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/Materials/M_InValid_Mat.uasset",
 				"D:/UE5_Projects/Unreal5_101_GDHQ/Content/Materials/Slope_L.uasset"
 			]
 		}
